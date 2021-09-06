@@ -1,2 +1,2 @@
-# Inventory-Management-Sytstem
+# Inventory-Management-System
 Add new items 
